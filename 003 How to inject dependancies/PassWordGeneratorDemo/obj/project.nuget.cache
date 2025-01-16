@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIbzvfyMMAI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RaSkull\\OneDrive\\Desktop\\Code\\C#\\003 How to inject dependancies\\PassWordGeneratorDemo\\PassWordGeneratorDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RaSkull\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
